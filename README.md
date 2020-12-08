@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on React js
 - 🤔 I’m looking for help with full stuck Web Develop
 - 💬 Ask me about Anything
-- 😄 Pronouns: Abubakkar
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: Codding,Song,programming
 -🥅 2021 Goals: Learn react redux, node js, MySQL
 
