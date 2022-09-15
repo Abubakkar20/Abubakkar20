@@ -1,5 +1,5 @@
-### Hi there,I'm Abubakkar
-(Frontend web Developer) 👋
+### Hi there,Ab Bakkar
+(Web Dveloper & WordPress Expert) 👋
 
 
 
